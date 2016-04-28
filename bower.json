@@ -18,5 +18,5 @@
   ],
   "dependencies": {
     "mangular-my-directive": "deepthi586/angular-my-component"
-  },
+  }
 }
