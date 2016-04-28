@@ -5,7 +5,7 @@
     "Udayadeepthi Nakka <un671g@att.com>"
   ],
   "description": "packaging app",
-  "main": "mydirective.js",
+  "main": "app.js",
   "moduleType": [],
   "license": "MIT",
   "homepage": "",
@@ -15,8 +15,5 @@
     "bower_components",
     "test",
     "tests"
-  ],
-  "dependencies": {
-    "angular": "~1.0.6"
-  }
+  ]
 }
